@@ -1,0 +1,16 @@
+# Rahasia - JANGAN di-upload ke GitHub!
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
